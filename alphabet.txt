@@ -18,10 +18,3 @@ ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 g
->>>>>>> 7bbc6ec086229f303084c284673d8c64e295509f
-
-
-whatever 2
-
-
-WHATEVER WHATEVER WHATEVER WHATEVER WHATEVER WHATEVER WHATEVER WHATEVER
